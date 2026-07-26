@@ -1,7 +1,28 @@
 aid: dreamforge
 name: Dreamforge
-description: Dreamforge is a company surfaced as a portfolio company of a16z and added to the API Evangelist
-  network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+description: >-
+  DreamForge.ai is an AI-powered game creation platform for building, iterating
+  on, and publishing 2D and stylized 3D games directly in the browser. Creators
+  use AI to generate gameplay systems, game-ready art and textures, animation,
+  and playable web builds, then share public play pages under dreamforge.ai/play.
+  The platform pairs a creator-facing web studio (including an Asset Studio) with
+  a consumer application distributed on Steam, iOS, and Android. Founded in 2025
+  and based in Miami, Florida, DreamForge is backed by Andreessen Horowitz (a16z).
+  DreamForge supports stylized 3D world generation, textures, voxels, and
+  billboarding workflows; native 3D model generation is not currently provided.
+  No public developer API, SDK, or developer portal is published at this time.
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://dreamforge.ai/og.png
 url: https://raw.githubusercontent.com/api-evangelist/dreamforge/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -11,12 +32,39 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-18'
 tags:
 - Company
+- Game Development
+- Artificial Intelligence
+- Generative AI
+- Game Engine
+- Content Creation
+- Gaming
+- 3D
 apis: []
+common:
+- type: Website
+  url: https://dreamforge.ai/
+- type: Documentation
+  url: https://dreamforge.ai/learn/
+- type: Pricing
+  url: https://dreamforge.ai/pricing/
+- type: TermsOfService
+  url: https://dreamforge.ai/terms/
+- type: PrivacyPolicy
+  url: https://dreamforge.ai/privacy/
+- type: Support
+  url: https://dreamforge.ai/contact/
+- type: LLMsTxt
+  url: llms/dreamforge-llms.txt
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence

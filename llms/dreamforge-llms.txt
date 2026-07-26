@@ -1,0 +1,35 @@
+# DreamForge.ai
+
+DreamForge.ai is an AI-powered platform for creating, iterating, and publishing 2D and stylized 3D games.
+Users can generate gameplay systems, textures, game-ready assets, and playable web builds, then share public play pages.
+
+## Canonical Site
+- https://dreamforge.ai/
+
+## Primary Public Pages
+- Home: https://dreamforge.ai/
+- Discover games: https://dreamforge.ai/discover/
+- Learn hub: https://dreamforge.ai/learn/
+- Asset Studio: https://dreamforge.ai/asset-studio/
+- Pricing: https://dreamforge.ai/pricing/
+- About: https://dreamforge.ai/about-dreamforge/
+- Contact: https://dreamforge.ai/contact/
+
+## Policy Pages
+- Privacy: https://dreamforge.ai/privacy/
+- Terms: https://dreamforge.ai/terms/
+- Usage policy: https://dreamforge.ai/usage/
+- Subprocessors: https://dreamforge.ai/subprocessors/
+
+## Structured Crawl Inputs
+- Sitemap: https://dreamforge.ai/sitemap.xml
+- Robots: https://dreamforge.ai/robots.txt
+
+## Public Game URLs
+- Public games are available under: https://dreamforge.ai/play/{gameSlug}
+- Only published games with live public versions and quality profile data are intended for indexing.
+
+
+## 3D Notes
+- DreamForge supports strong stylized 3D world generation, textures, voxels, and billboarding workflows.
+- Native 3D model generation is not currently provided.
