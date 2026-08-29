@@ -11,6 +11,17 @@ description: >-
   DreamForge supports stylized 3D world generation, textures, voxels, and
   billboarding workflows; native 3D model generation is not currently provided.
   No public developer API, SDK, or developer portal is published at this time.
+deliveryModel:
+  model: saas
+  open_source: false
+  commercial: true
+  callable_host: false
+  label: Hosted service · you call their endpoint
+  confidence: medium
+  source:
+  - pricing
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
